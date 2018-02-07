@@ -1,3 +1,6 @@
+This is a static website I built as a splash page for the Full Stack team within the Office of CTO, GBS North America.  Below is a bit about the Bootstrap template I used to get me started.
+
+--------------
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
