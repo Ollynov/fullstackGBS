@@ -1,0 +1,4 @@
+applications:
+- name: NewStack
+  random-route: true
+  memory: 128M
